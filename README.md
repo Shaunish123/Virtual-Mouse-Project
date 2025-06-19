@@ -18,7 +18,21 @@ A Python-powered **Virtual Mouse** that enables you to control your computer cur
 - [MediaPipe](https://google.github.io/mediapipe/) — Real-time hand landmark detection.
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) — GUI automation (mouse control).
 
-## 📸 Demo Preview
+
+## 🎥 Demo Video
+
+The demo video file (`Virtual Mouse Project Video.mp4`) is included in this repository.
+
+Since the file size is large, GitHub might not preview it directly in the browser.
+
+### 📌 To view the video:
+
+1. Click the **"..." (three dots) button** at the top-right corner of the file list (beside the pencil/edit icon).
+2. Select **"Open in github.dev"**.
+3. In GitHub.dev, locate the `Virtual Mouse Project Video.mp4` file and click it to play.
+
+Alternatively, you can download the file directly to view it on your device.
+
 
  <!-- Optional: Replace with your image or GIF -->
 
