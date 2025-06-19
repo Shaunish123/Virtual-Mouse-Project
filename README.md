@@ -27,7 +27,7 @@ Since the file size is large, GitHub might not preview it directly in the browse
 
 ### 📌 To view the video:
 
-1. Click the **"..." (three dots) button** at the top-right corner of the file list (beside the pencil/edit icon).
+1. Click the **"🔽" (Down arrow) button** at the top-right corner of the file list (beside the pencil/edit icon).
 2. Select **"Open in github.dev"**.
 3. In GitHub.dev, locate the `Virtual Mouse Project Video.mp4` file and click it to play.
 
